@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=Windows-1252\">
+        <style>
+         .mytable{
+                border:1px solid black; 
+                border-collapse: collapse;
+                width: 100%;
+            }
+            .mytable tr th, .mytable tr td{
+                border:1px solid black; 
+                padding: 5px 10px;
+            }
+        </style>
+    </head>
+    <body>
+    <center><font size="+5" style="font:Arial"><b>Surat Jalan</b></font></center>
+    <table width="100%">
+      <tr>
+        <td width="59%" rowspan="4" valign="top"><b style="font-size:17px">PT. CIPTA VARIA KHARISMA UTAMA</b><br>Jl. Utan Kayu Raya No.105A<br>
+        Utan Kayu Utara, Matraman<br>
+        Jakarta Timur</td>
+        
+      </tr>
+      <tr>
+        <td width="3%" rowspan="3">&nbsp;</td>
+        <td width="21%" height="28" valign="top"><font>Delivery No.</font></td>
+        <td width="17%" align="right" valign="top">2018/SJ/VII/KU-247</td>
+      </tr>
+      <tr>
+        <td height="24" valign="top"><font>Delivery Date</font></td>
+        <td width="17%" align="right" valign="top">20 Jul 2018</td>
+      </tr>
+      <tr>
+        <td height="24" valign="top"><font>PO. No.</font></td>
+        <td width="17%" align="right" valign="top">AKS-P1805-1007145</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top">Paket   : Pengadaan Alat Kedokteran Umum</td>
+        <td colspan="3" valign="top"><p><strong>Kepada Yth,</strong></p>
+        <b>RSUD TENGKU SULUNG</b><br>
+        Jl Penunjang Kel.Pulau Kijang<br>
+        Kec.Reteh, Kab.Indragiri Hilir, Riau<br>
+        UP : dr. Iswandi<br>
+        Telp : 0812-680-9658</td>
+      </tr>
+    </table>
+        <br>
+<table width="100%" class="mytable">
+  <tr>
+    <td align="center"><strong>Item</strong></td>
+    <td align="center"><strong>Item Description</strong></td>
+    <td align="center"><strong>Qty</strong></td>
+    <td align="center"><strong>Serial Number</strong></td>
+  </tr>
+  <tr>
+    <td height="100%" align="center" valign="top" style="padding-bottom:30%"><p>Oxygen Concentrator</p></td>
+    <td valign="top">2 Unit eror</td>
+    <td align="center" valign="top">1 pc</td>
+    <td align="center" valign="top">1017110131</td>
+  </tr>
+</table>
+<br>
+<table width="100%">
+  <tr>
+    <td width="31%"><p>Yang Menyerahkan</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+    <td width="36%">&nbsp;</td>
+    <td width="33%" valign="top">Yang Menerima</td>
+  </tr>
+  <tr>
+    <td><hr></td>
+    <td>&nbsp;</td>
+    <td><hr></td>
+  </tr>
+</table>
+<br><br>
+1. Putih : Setelah ttd mohon kembalikan ke PT. Cipta Varia Kharisma Utama, 2. Merah : Expedisi, 3. Kuning Instansi, 4. Hijau : Gudang, 5. Biru : Admin, 6. Copy : Keuangan
+    </body>
+</html>

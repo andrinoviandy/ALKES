@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "keuangan_id": "23",
+        "tgl_jual": "2019-05-22",
+        "no_po_jual": "PO JUAL ALKES NO Seri",
+        "pembeli_id": "585",
+        "pemakai_id": "465",
+        "marketing": "Triyasno",
+        "subdis": "-",
+        "diskon_jual": "0",
+        "ppn_jual": "0",
+        "total_harga": "20000",
+        "idd": "1"
+    }
+]
